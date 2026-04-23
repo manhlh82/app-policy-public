@@ -102,4 +102,4 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 
 If you have any questions or requests regarding this Privacy Policy or your data, please contact:
 
-**cafeshot@proton.me**
+**cafeshot@gmail.com**

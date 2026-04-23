@@ -21,7 +21,7 @@ Removing the App will revoke the App's access to your Facebook data.
 
 You may also request deletion directly by contacting:
 
-**cafeshot@proton.me**
+**cafeshot@gmail.com**
 
 Please include:
 
@@ -56,4 +56,4 @@ We aim to process valid deletion requests within **30 days** of receiving and ve
 
 If you have questions about data deletion, contact:
 
-**cafeshot@proton.me**
+**cafeshot@gmail.com**
