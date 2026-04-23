@@ -2,7 +2,13 @@
 
 **Last updated:** 2026-04-22
 
-Content Management Tool ("the App", "we", "us", or "our") is a tool used to connect to Facebook and publish posts to Facebook Pages that the user already manages.
+Content Management Tool ("the App", "we", "us", or "our") is used only by the developer to manage and publish content to Facebook Pages that they own or have authorized access to.
+
+## Scope of Use
+
+This App is intended for personal/internal use only.
+
+It is not offered as a public service or platform for third-party users.
 
 ## 1. What this App does
 
